@@ -1,9 +1,12 @@
 ###**🚀 Hey there! I'm Somalika**
+
 👨‍💻 Aspiring Software Engineer | Full-Stack Developer
+
 🎓 B.Tech CSE | SRM University Sonepat | CGPA: 8.0 (expected)
 
+
 **LeetCode & Problem-Solving**
-🔗 LeetCode Profile
+
 ✔️ 300+ problems solved across arrays, graphs, DP, and recursion.
 ✔️ Achieved 50 Days Badges, maintaining consistent problem-solving streaks.
 ✔️ Strengthened Data Structures & Algorithm skills through daily coding challenges.
