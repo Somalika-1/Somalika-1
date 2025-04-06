@@ -89,7 +89,7 @@ Implemented real-time CRUD operations for authenticated users, ensuring seamless
 
 <div align="center">
 🌱 Currently exploring advanced React patterns and Next.js app router
-👯 Looking to collaborate on open source web development projects
+👯 Looking for opportunities to gain real time experience in web development and enhance my skills
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Hearts.png" alt="Smiling Face with Hearts" width="25" height="25" /> <strong>Thanks for visiting my profile!</strong> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />
   <img src="https://komarev.com/ghpvc/?username=somalika&color=blueviolet&style=flat" alt="Profile Views"/>
 </div>
